@@ -1,6 +1,7 @@
 # Docker Images Pusher
 
 使用Github Action将Docker镜像上传到阿里云供国内服务器使用，免费易配置
+目前仅适用于amd64
 
 作者：**技术爬爬虾**<br>
 B站，抖音，Youtube全网同名，转载请注明作者<br>
