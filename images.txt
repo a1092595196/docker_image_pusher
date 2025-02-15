@@ -5,5 +5,6 @@
 --platform=linux/amd64 matrixdotorg/synapse:latest
 --platform=linux/arm64 ghostchu/peerbanhelper:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
+--platform=linux/amd64 ghostchu/peerbanhelper:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
