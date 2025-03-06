@@ -12,6 +12,6 @@
 #--platform=linux/arm64 xhofe/alist:latest
 #--platform=linux/amd64 xhofe/alist:latest
 #--platform=linux/amd64 dyrnq/open-webui:main
---platform=linux/amd64teddysun/xray:latest
+--platform=linux/amd64 teddysun/xray:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
