@@ -9,9 +9,9 @@
 #--platform=linux/amd64 ghostchu/peerbanhelper:latest
 #--platform=linux/arm64 johngong/qbittorrent:latest
 #--platform=linux/amd64 johngong/qbittorrent:latest
---platform=linux/arm64 xhofe/alist:latest
---platform=linux/amd64 xhofe/alist:latest
---platform=linux/amd64 dyrnq/open-webui:main
+#--platform=linux/arm64 xhofe/alist:latest
+#--platform=linux/amd64 xhofe/alist:latest
+#--platform=linux/amd64 dyrnq/open-webui:main
 --platform=linux/amd64teddysun/xray:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
