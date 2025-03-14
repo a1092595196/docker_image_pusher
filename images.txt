@@ -16,6 +16,6 @@
 #--platform=linux/arm64 teddysun/xray:latest
 #--platform=linux/amd64 tindy2013/subconverter:latest
 #--platform=linux/arm64 tindy2013/subconverter:latest
---platform=linux/arm64 linuxserver/python:alpine319
+--platform=linux/arm64 python:3.8
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
