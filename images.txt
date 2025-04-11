@@ -3,8 +3,8 @@
 #ghcr.io/open-webui/open-webui:main
 #xhofe/alist:latest
 #--platform=linux/amd64 matrixdotorg/synapse:latest
---platform=linux/arm64 portainer/portainer-ce:latest
---platform=linux/amd64 portainer/portainer-ce:latest
+#--platform=linux/arm64 portainer/portainer-ce:latest
+#--platform=linux/amd64 portainer/portainer-ce:latest
 #--platform=linux/arm64 ghostchu/peerbanhelper:latest
 #--platform=linux/amd64 ghostchu/peerbanhelper:latest
 #--platform=linux/arm64 johngong/qbittorrent:latest
@@ -18,6 +18,8 @@
 #--platform=linux/arm64 tindy2013/subconverter:latest
 #--platform=linux/arm64 python:3.8
 #--platform=linux/arm64 kutovoys/xray-checker:latest
---platform=linux/amd64 python:3.8
+#--platform=linux/amd64 python:3.8
+--platform=linux/amd64 python:3.11-slim
+--platform=linux/arm64 python:3.11-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
