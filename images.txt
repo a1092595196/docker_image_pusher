@@ -3,7 +3,7 @@
 #ghcr.io/open-webui/open-webui:main
 #xhofe/alist:latest
 #--platform=linux/amd64 matrixdotorg/synapse:latest
---platform=linux/arm64 nyanmisaka/jellyfin:latest
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/amd64 portainer/portainer-ce:latest
 #--platform=linux/arm64 ghostchu/peerbanhelper:latest
