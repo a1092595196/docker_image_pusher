@@ -4,6 +4,8 @@
 #xhofe/alist:latest
 #--platform=linux/amd64 matrixdotorg/synapse:latest
 --platform=linux/amd64 nyanmisaka/jellyfin:latest
+--platform=linux/arm64 teddysun/hysteria:latest
+--platform=linux/amd64 teddysun/hysteria:latest
 --platform=linux/arm64 portainer/portainer-ce:latest
 --platform=linux/amd64 portainer/portainer-ce:latest
 #--platform=linux/arm64 ghostchu/peerbanhelper:latest
