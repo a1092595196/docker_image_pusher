@@ -3,11 +3,11 @@
 #ghcr.io/open-webui/open-webui:main
 #xhofe/alist:latest
 #--platform=linux/amd64 matrixdotorg/synapse:latest
---platform=linux/amd64 nyanmisaka/jellyfin:260326-amd64
---platform=linux/arm64 teddysun/hysteria:latest
---platform=linux/amd64 teddysun/hysteria:latest
---platform=linux/arm64 portainer/portainer-ce:latest
---platform=linux/amd64 portainer/portainer-ce:latest
+#--platform=linux/amd64 nyanmisaka/jellyfin:260326-amd64
+#--platform=linux/arm64 teddysun/hysteria:latest
+#--platform=linux/amd64 teddysun/hysteria:latest
+#--platform=linux/arm64 portainer/portainer-ce:latest
+#--platform=linux/amd64 portainer/portainer-ce:latest
 #--platform=linux/arm64 ghostchu/peerbanhelper:latest
 #--platform=linux/amd64 ghostchu/peerbanhelper:latest
 --platform=linux/arm64 johngong/qbittorrent:latest
@@ -26,5 +26,6 @@
 #--platform=linux/amd64 python:3.11
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 openlistteam/openlist:latest
---platform=linux/arm64 openlistteam/openlist:latest
+
+#--platform=linux/amd64 openlistteam/openlist:latest
+#--platform=linux/arm64 openlistteam/openlist:latest
