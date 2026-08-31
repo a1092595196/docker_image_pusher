@@ -30,6 +30,7 @@
 --platform=linux/amd64 redis
 --platform=linux/amd64 jxxghp/moviepilot-v3:latest
 --platform=linux/amd64 cloudnas/clouddrive2:latest
+--platform=linux/amd64 jellyfin/jellyfin:latest
 --platform=linux/amd64 tinymediamanager/tinymediamanager:latest
 #--platform=linux/amd64 openlistteam/openlist:latest
 #--platform=linux/arm64 openlistteam/openlist:latest
