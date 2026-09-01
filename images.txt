@@ -32,5 +32,5 @@
 --platform=linux/amd64 cloudnas/clouddrive2:latest
 --platform=linux/amd64 amilys/embyserver:beta
 --platform=linux/amd64 tinymediamanager/tinymediamanager:latest
-#--platform=linux/amd64 openlistteam/openlist:latest
+--platform=linux/amd64 openlistteam/openlist:latest
 #--platform=linux/arm64 openlistteam/openlist:latest
